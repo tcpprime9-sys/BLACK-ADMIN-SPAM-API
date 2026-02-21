@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+psutil
+PyJWT
+protobuf==4.25.3
+urllib3
+cfonts
+rich
+asyncio
