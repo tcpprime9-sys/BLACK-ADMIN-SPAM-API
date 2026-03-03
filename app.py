@@ -735,7 +735,7 @@ def server_error(e):
     }), 500
 
 if __name__ == "__main__":
-    print(render("Ax Romjan API", colors=["white", "yellow"], align="center"))
+    print(render("BLACK ADMIN X SPAM API", colors=["white", "yellow"], align="center"))
     print("\n" + "="*50)
     print("Free Fire Spam API Server")
     print("="*50)
